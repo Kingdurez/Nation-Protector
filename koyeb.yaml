@@ -23,7 +23,7 @@ RUN mkdir -p /Nation-Protector && \
     find /Nation-Protector -mindepth 1 -not -path "/Nation-Protector/node_modules*" -delete
 
 # Clone the repository
-RUN git clone https://github.com/Samuel-Muli/Nation-Protector.git
+RUN git clone https://github.com/Kingdurez/Nation-Protector.git
 
 # Set the working directory
 WORKDIR /Nation-Protector

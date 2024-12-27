@@ -7,12 +7,12 @@ import axios from 'axios'
 
 // Global variables
 global.owner = [
-  ['254725074352', '‖⫷※•şɐɱʉ•※⫸‖', true], 
+  ['2348062641931', 'LordDurez', true], 
 ] 
-//global.pairingNumber = '254725074352';
-global.mods = [ '254725074352'] 
-global.prems = ['254725074352']
-global.allowed = ['254725074352' ]
+//global.pairingNumber = '2348062641931';
+global.mods = [ '2348062641931'] 
+global.prems = ['2348062641931']
+global.allowed = ['2348062641931' ]
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -46,10 +46,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '‖⫷※•şɐɱʉ•※⫸‖'
+global.botname = 'Durezmd'
 global.premium = 'true'
-global.packname = '‖⫷※•şɐɱʉ•※⫸‖' 
-global.author = '@Samuel Muli' 
+global.packname = 'Durez' 
+global.author = '@Lord Durez' 
 global.menuvid = 'https://telegra.ph/file/75ccac4f44375d552c60d.mp4'
 global.igfg = '▢✓ Follow Our channel\nhttps://chat.whatsapp.com/FV96nX6l7iCGmBeunOFPa0' 
 global.dygp = 'https://chat.whatsapp.com/FV96nX6l7iCGmBeunOFPa0'

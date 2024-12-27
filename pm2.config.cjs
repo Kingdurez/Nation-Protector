@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: '‖⫷※•şɐɱʉ•※⫸‖',
+      name: 'Durez',
       script: 'index.js',
       interpreter: 'node',
       interpreter_args: '--experimental-modules',
